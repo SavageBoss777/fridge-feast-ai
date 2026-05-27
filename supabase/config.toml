@@ -1,0 +1,13 @@
+project_id = "uxavhpyazdfeiwpqmqar"
+
+[functions.analyze-image]
+verify_jwt = false
+
+[functions.generate-recipes]
+verify_jwt = false
+
+[functions.generate-substitutions]
+verify_jwt = false
+
+[functions.recipe-chat]
+verify_jwt = false
